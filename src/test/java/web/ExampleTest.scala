@@ -31,6 +31,7 @@ class ExampleTest extends FlatSpec with ShouldMatchers with WebBrowser with Even
       click on partialLinkText("Code and Stuff")
     }
 
+    //assert the the title of the page is Code and Stuff
     pageTitle should be ("Code and Stuff")
   }
 
