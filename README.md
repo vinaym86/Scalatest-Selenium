@@ -4,8 +4,5 @@ The command to run all tests is
 
     mvn test
 
-web drivers for chrome can be downloaded from 
+web drivers for chrome on other os's can be downloaded from 
 https://sites.google.com/a/chromium.org/chromedriver/downloads
-
-the chrome driver in this folder in drivers directory is for chrome on
-mac osx
